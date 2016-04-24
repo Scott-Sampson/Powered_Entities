@@ -11,17 +11,18 @@ Code clean up
 
 Manual Mode added to the mod
 
-  Requires that users now create a Power Antenna
+    Requires that users now create a Power Antenna
   
 Added Config
 
-  manual_mode to toggle on or off manual mode
+    manual_mode to toggle on or off manual mode
   
-  Moved entities arrays to config, so that users can change at will
+    Moved entities arrays to config, so that users can change at will
   
-  debug_mode added
+    debug_mode added
   
 Added technology for both manual and automatic modes
+
 
 0.1.0
 
