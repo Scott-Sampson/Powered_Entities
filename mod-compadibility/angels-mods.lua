@@ -1,5 +1,4 @@
 --angelsrefining
---1x1, 2x2, 3x3, 4x4, 5x5, 9x10, custom
 	function check_angelsrefining(mod)
 		if (mod == "angelsrefining") then
 		add_to_table({
