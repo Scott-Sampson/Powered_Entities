@@ -1,4 +1,5 @@
 require "bobs-mods"
+require "angels-mods"
 
 --Format for each entry in the table is {"entity_type", "entity_name"}
 --Valid entity_types are as follows:
@@ -15,6 +16,7 @@ function modCompadibility()
 		check_bobpower(mod)
 		check_bobtech(mod)
 		check_bobwarfare(mod)
+		check_angelsrefining(mod)
 	end
 end
 
