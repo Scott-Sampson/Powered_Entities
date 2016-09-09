@@ -20,7 +20,6 @@
 			{"4x4", "ore-floatation-cell-3"},
 			{"4x4", "filtration-unit"},
 			{"4x4", "filtration-unit-2"},
-			
 			{"4x4", "ore-refinery"},
 			{"4x4", "ore-refinery-2"},
 			{"4x4", "ore-refinery-3"},
