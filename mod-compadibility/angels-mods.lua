@@ -1,10 +1,10 @@
 --angelsrefining
+--1x1, 2x2, 3x3, 4x4, custom, 9x10, custom
 	function check_angelsrefining(mod)
 		if (mod == "angelsrefining") then
 		add_to_table({
 			{"2x2", "liquifier"},
 			{"2x2", "liquifier-2"},
-			{"3x3", "burner-ore-crusher"},
 			{"3x3", "ore-crusher"},
 			{"3x3", "ore-crusher-2"},
 			{"3x3", "ore-crusher-3"},
@@ -24,10 +24,10 @@
 			{"4x4", "ore-refinery-3"},
 			{"4x4", "hydro-plant"},
 			{"4x4", "hydro-plant-2"},
-			{"5x5", "ore-sorting-facility"},
-			{"5x5", "ore-sorting-facility-2"},
-			{"5x5", "ore-sorting-facility-3"},
-			{"5x5", "ore-sorting-facility-4"},
+			{"custom", "ore-sorting-facility"},
+			{"custom", "ore-sorting-facility-2"},
+			{"custom", "ore-sorting-facility-3"},
+			{"custom", "ore-sorting-facility-4"},
 			{"5x5", "thermal-extractor"}
 		})
 	end

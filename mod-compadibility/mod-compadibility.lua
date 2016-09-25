@@ -15,8 +15,10 @@ function modCompadibility()
 		check_bobplates(mod)
 		check_bobpower(mod)
 		check_bobtech(mod)
+		check_bobgreenhouse(mod)
 		check_bobwarfare(mod)
 		check_angelsrefining(mod)
+		
 	end
 end
 

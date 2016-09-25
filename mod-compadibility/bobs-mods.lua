@@ -7,7 +7,10 @@ function check_bobassembly(mod)
 			{"2x2", "electronics-machine-3"},
 			{"3x3", "assembling-machine-4"},
 			{"3x3", "assembling-machine-5"},
-			{"3x3", "assembling-machine-6"}
+			{"3x3", "assembling-machine-6"},
+			{"3x3", "chemical-plant-2"},
+			{"3x3", "chemical-plant-3"},
+			{"3x3", "chemical-plant-4"}
 		})
 	end
 end
@@ -141,6 +144,15 @@ function check_bobwarfare(mod)
 			{"2x2", "bob-laser-turret-3"},
 			{"2x2", "bob-laser-turret-4"},
 			{"2x2", "bob-laser-turret-5"}
+		})
+	end
+end
+
+--bobgreenhouse
+function check_bobgreenhouse(mod)
+	if (mod == "bobgreenhouse") then
+		add_to_table( {
+			{"3x3", "bob-greenhouse"}
 		})
 	end
 end
